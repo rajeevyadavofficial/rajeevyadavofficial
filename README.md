@@ -66,11 +66,17 @@ Hi there! I'm **Rajeev Yadav**, a **Software Engineer**, **Technical Teacher**, 
 ---
 
 ## 🎯 **Pinned Repositories**:
-[![MERN Stack School Website](https://nrmv.netlify.app/)
+[![Office Launch Menu Management System](https://github.com/rajeevyadavofficial/Office_Lunch_Menu_Management_System)
 [![Nepali vehicle NumberPlate Detection System](https://github.com/rajeevyadavofficial/Nepali_Vehicle_License_Plate_Detector_And_Reader_YOLOv8)
-[![My Portfolio](https://yadavrajeev.com.np/)
+[![My Portfolio](https://github.com/rajeevyadavofficial/CodeClause_Personal_Portfolio_website)
+
 
 ---
+
+## 🌐 **Live Demo**:
+[Check out the MERN Stack School Website live on Netlify!](https://nrmv.netlify.app/)
+[Check out the Personal Portfolio  Website live on Netlify!](https://yadavrajeev.com.np/)
+
 
 Feel free to check out my repositories, learn with me, and connect with me!
 
